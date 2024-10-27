@@ -1,0 +1,64 @@
+/* table th, td{
+    border: 1px solid;
+    color: #000075;
+    
+}
+
+    
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+ table th, td {
+    padding-left: 55px;
+    text-align: center;
+  }
+
+  h2{
+    text-align: center;
+    color: #000075;
+  }
+
+  /* .button1 {background-color: #04AA6D;} 
+.button2 {background-color: #008CBA;} 
+.button3 {background-color: #f44336;} */ 
+
+.btn{
+  margin: 3px;;
+}
+.divbtn{
+  float: left;
+}
+h4{
+  margin-bottom: 20px;
+ 
+  margin-top: 40px;
+}
+.add-container-one{
+  display: flex;
+}
+
+.container-two{
+  margin-top: 40px;
+}
+
+.loader{
+  margin-left: 420%;
+  margin-top: 30%;
+  color: #3B71CA;
+}
+/* 
+.count{
+  width: 300px;
+  height: 200px;
+  padding-top: 30px;
+  padding-left: 1px;
+  
+}
+.card-body{
+  background-color: #3AA9AF;
+} */
